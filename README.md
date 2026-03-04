@@ -1,14 +1,28 @@
-# task_project
+
+---
+
+# Task Project
 
 A new Flutter project.
 
-The app idea is to create tasks and keep track of them. So one can complete them and see in the statistics how much is and isnt completed.
+## Application Idea and Purpose
 
-App can be found in:
+The app idea is to create tasks and keep track of them. You can complete tasks and then see in the statistics how many are completed and how many are not.
 
+## Application URL
 
-How to use the app:
+The app can be found at:
 
-Create a task by clicking + button and writing its name. This stores the task and then you can complete it when ready. In statistics you can see how many have been completed.
+**https://alremes.github.io/task_project/**
 
-For mobile clicking on task makes you see the task details on top, and on larger screens you can see the details next to it.
+## How to Use the App
+
+- Create a task by clicking the **+** button and writing its name.  
+- The task is stored and shown in the task list.  
+- You can complete a task when ready by toggling its completion status.  
+- In the **Statistics** view, you can see how many tasks have been completed.
+
+On mobile, clicking a task shows its details on top of the task.  
+On larger screens, the task details appear next to the task list.
+
+---
